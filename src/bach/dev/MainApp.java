@@ -1,15 +1,15 @@
-package quoc.dev;
+package bach.dev;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import com.mysql.cj.xdevapi.PreparableStatement;
 
-import quoc.dev.data.CategoryImpl;
-import quoc.dev.data.Order_itemsImpl;
-import quoc.dev.data.OrdersImpl;
-import quoc.dev.data.ProductImpl;
-import quoc.dev.data.UserImpl;
+import bach.dev.data.CategoryImpl;
+import bach.dev.data.Order_itemsImpl;
+import bach.dev.data.OrdersImpl;
+import bach.dev.data.ProductImpl;
+import bach.dev.data.UserImpl;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

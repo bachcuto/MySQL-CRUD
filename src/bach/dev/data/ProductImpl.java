@@ -1,4 +1,4 @@
-package quoc.dev.data;
+package bach.dev.data;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
